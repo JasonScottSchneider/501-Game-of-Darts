@@ -2,7 +2,7 @@
 This is a darts game called 501 that can be played in the terminal with the Swift programming language.
 Here is an example below:
 <br>
-$ swift 501.swift
+\$ swift 501.swift
 <br>
 Your overall score at the start of the game is 501.<br>
 Enter an integer to adjust the model for how well you might play.<br>
