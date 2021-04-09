@@ -5,12 +5,12 @@ Date: April 8, 2021
 */
  
 print("You may know the popular darts game called 501. Players start with a score of 501 and work down to zero. Here are the rules:\nEach player plays a “round” where they throw three darts at a board.\nEach throw can score between 1 and 20 points, which may be doubled or tripled depending where it hits on the board.\nIt's also possible to score 25 for the outer bulls-eye or 50 for the inner bulls-eye.\nHouse rule: At the end of three rounds, whoever is closest to zero without going below zero is the winner.\nImagine you’re a game shark. You want to fool people into thinking you’re terrible at this game, but then come back and beat them in one swoop at the end. Model your game progress by adjusting the model of the game with an integer to manipulate how well you and player 2 might or might not play at a game of darts.")
-
+print("")
 //Start with a variable set to `501` to hold your overall score.
 var overallScoreP1 = 501
 var overallScoreP2 = 501
 print("Your overall score at the start of the game is \(overallScoreP1).")
-
+print("")
 //Create another variable set to `0` to hold the score for each round.
 
 var roundScoreP1 = 0
@@ -22,7 +22,7 @@ At the end of each round, calculate your current overall score by subtracting th
 */
 
 print("How slowly can you “improve” your performance without arousing suspicion?")
-
+print("")
 /*
 After each round, `print` some statements that your opponents might make. If you can, use the value of your current score in their statements.
 */
