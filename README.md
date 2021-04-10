@@ -1,5 +1,5 @@
 # 501-Game-of-Darts
-This is a darts game called 501 that can be played in the terminal with the Swift programming language. (Note: The folder included is a playground for XCode, separate from the 501.swift file.)
+This is a darts game called 501 that can be played in the terminal with the Swift programming language. (Note: The folder included is a playground for XCode, separate from the 501.swift file. I uploaded both to give the choice between using a playground in XCode or just straight in the terminal.)
 Here is an example below:
 <br>
 <br>
