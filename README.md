@@ -2,6 +2,7 @@
 This is a darts game called 501 that can be played in the terminal with the Swift programming language. (Note: The folder included is a playground for XCode, separate from the 501.swift file.)
 Here is an example below:
 <br>
+<br>
 \$ swift 501.swift
 <br>
 Your overall score at the start of the game is 501.<br>
